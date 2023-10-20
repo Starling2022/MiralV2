@@ -1,0 +1,20 @@
+{
+    "name": "Nguyên Mai Đình",
+    "ID": "100078395843087",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "18:37:19, 20/10/2023"
+}
